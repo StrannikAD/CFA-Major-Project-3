@@ -1,0 +1,56 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("../libs/jquerymobile/1.4.5/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilecontainer */
+.ui-content.Products_mobilecontainer {
+	padding: 15px 15px 15px 15px;
+}
+/* mobilelist_2 */
+.ui-page .Products_mobilelist_2 {
+	margin: 4px -15px 0px -15px;
+}
+/* mobilelistitem_3 */
+.ui-mobile-viewport ul[data-role="listview"] li.Products_mobilelistitem_3 {
+	padding: 0;
+	margin: 0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.Products_mobilelistitem_3 .ui-li-static-container {
+	padding: 0px 0px 4px 10px;
+	padding-right: 41px;
+	padding-left: 10px;
+	min-height: 1em;
+	border-width:0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.Products_mobilelistitem_3 span.ui-li-count {
+	right: 40px;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.Products_mobilelistitem_3.ui-icon-none span.ui-li-count {
+	right: 10px;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.Products_mobilelistitem_3.ui-icon-none .ui-li-static-container {
+	padding-right: 33px; /* consider bubble counter */
+}
+/* mobilelabel_9 */
+.Products_mobilelabel_9 {
+	text-decoration: none; font-weight: normal; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilelistitembutton_4 */
+.Products_mobilelistitembutton_4 {
+
+}
+/* mobilelabel_10 */
+.Products_mobilelabel_10 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 14px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilefooter */
+.Products_mobilefooter {
+	min-height:38px;
+}
